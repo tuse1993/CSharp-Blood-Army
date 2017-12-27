@@ -1,0 +1,10 @@
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\bin\Debug\BloodArmy.Data.dll.config
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\bin\Debug\BloodArmy.Data.dll
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\bin\Debug\BloodArmy.Data.pdb
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\bin\Debug\BloodArmy.Entity.dll
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\bin\Debug\BloodArmy.Entity.pdb
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\obj\Debug\BloodArmy.Data.csprojResolveAssemblyReference.cache
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\obj\Debug\BloodArmy.Data.Properties.Resources.resources
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\obj\Debug\BloodArmy.Data.csproj.GenerateResource.Cache
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\obj\Debug\BloodArmy.Data.dll
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Data\obj\Debug\BloodArmy.Data.pdb

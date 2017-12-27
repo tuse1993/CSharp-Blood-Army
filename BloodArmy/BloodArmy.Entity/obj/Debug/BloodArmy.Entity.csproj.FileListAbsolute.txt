@@ -1,0 +1,5 @@
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Entity\bin\Debug\BloodArmy.Entity.dll.config
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Entity\bin\Debug\BloodArmy.Entity.dll
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Entity\bin\Debug\BloodArmy.Entity.pdb
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Entity\obj\Debug\BloodArmy.Entity.dll
+F:\AIUB\8th Sem\C#\Blood Army\BloodArmy\BloodArmy.Entity\obj\Debug\BloodArmy.Entity.pdb
